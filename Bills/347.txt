@@ -1,0 +1,16 @@
+	 Welcome to Futsal Club
+
+ Bill Number : 347
+ Team Name : kavre club
+ Captain Contact : 98124566
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Futsal charge		1		1200
+ Football		1		1500
+ Coca Cola		10		500
+ ------------------------------------
+ Cosemetic Tax		Rs. 135.0
+ Cold Drink Tax		Rs. 25.0
+ Total Bill : 		 Rs. 3360.0
+ ------------------------------------

@@ -1,0 +1,17 @@
+	 Welcome to Futsal Club
+
+ Bill Number : 712
+ Team Name : jhapa futsal club
+ Captain Contact : 986756455
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Futsal charge		1		1200
+ Refree charge		1		100
+ Coca Cola		10		500
+ ------------------------------------
+ Cosemetic Tax		Rs. 60.0
+ Grocery Tax		Rs. 10.0
+ Cold Drink Tax		Rs. 25.0
+ Total Bill : 		 Rs. 1895.0
+ ------------------------------------

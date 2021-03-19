@@ -1,0 +1,20 @@
+	 Welcome to Futsal Club
+
+ Bill Number : 502
+ Team Name : hfc
+ Captain Contact : 9861443780
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Futsal charge		2		2400
+ Football		1		1500
+ Moov		1		90
+ Mineral Water		10		250
+ Refree charge		1		100
+ Frooti		10		300
+ ------------------------------------
+ Cosemetic Tax		Rs. 199.5
+ Grocery Tax		Rs. 35.0
+ Cold Drink Tax		Rs. 15.0
+ Total Bill : 		 Rs. 4889.5
+ ------------------------------------

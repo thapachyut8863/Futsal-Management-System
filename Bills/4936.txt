@@ -1,0 +1,13 @@
+	 Welcome to Futsal Club
+
+ Bill Number : 4936
+ Customer Name : achyut thapa
+ Phone Number : 90
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Penalise		50		9000
+ ------------------------------------
+ Services Tax		Rs. 900.0
+ Total Bill : 		 Rs. 9900.0
+ ------------------------------------

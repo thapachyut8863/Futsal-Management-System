@@ -1,0 +1,17 @@
+	 Welcome to Futsal Club
+
+ Bill Number : 853
+ Team Name : Kavre club
+ Captain Contact : 9861443678
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Futsal charge		2		2400
+ Refree charge		1		100
+ Frooti		10		300
+ ------------------------------------
+ Cosemetic Tax		Rs. 120.0
+ Grocery Tax		Rs. 10.0
+ Cold Drink Tax		Rs. 15.0
+ Total Bill : 		 Rs. 2945.0
+ ------------------------------------

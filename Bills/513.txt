@@ -1,0 +1,18 @@
+	 Welcome to Futsal Club
+
+ Bill Number : 513
+ Team Name : SFC
+ Captain Contact : 9861443780
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Futsal charge		2		2400
+ Football		1		1500
+ Penalty		3		60
+ Thumbs Up		10		350
+ ------------------------------------
+ Cosemetic Tax		Rs. 195.0
+ Grocery Tax		Rs. 6.0
+ Cold Drink Tax		Rs. 17.5
+ Total Bill : 		 Rs. 4528.5
+ ------------------------------------

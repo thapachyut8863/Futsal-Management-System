@@ -1,0 +1,22 @@
+	 Welcome to Futsal Club
+
+ Bill Number : 498
+ Team Name : Sittalpati footballl club
+ Captain Contact : 9818783544
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Futsal charge		10		12000
+ Jersey price 		2		2000
+ Moov		1		90
+ Mineral Water		10		250
+ Refree charge		25		2500
+ Penalty		3		60
+ 7UP		10		500
+ Frooti		10		300
+ ------------------------------------
+ Cosemetic Tax		Rs. 704.5
+ Grocery Tax		Rs. 281.0
+ Cold Drink Tax		Rs. 40.0
+ Total Bill : 		 Rs. 18725.5
+ ------------------------------------
